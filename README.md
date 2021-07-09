@@ -1,2 +1,2 @@
 # GRIP-The-Sparks-Foundation
-Internship Tasks
+Task 2: Prediction using Unsupervised ML
